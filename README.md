@@ -1,5 +1,8 @@
 # 🛡️ Security Audit
 
+[![npm version](https://img.shields.io/npm/v/audit-security.svg)](https://www.npmjs.com/package/audit-security)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A lightning-fast, zero-config CLI tool to scan Node.js repositories for hidden and potentially malicious installation scripts **before** you run `npm install`.
 
 ## The Problem

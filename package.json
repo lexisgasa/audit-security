@@ -1,16 +1,25 @@
 {
   "name": "audit-security",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Quick tool to detect dangerous dependencies before installing",
   "main": "index.js",
   "bin": {
     "audit-security": "./index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexisgasa/audit-security.git"
+  },
   "keywords": [
     "audit",
     "security",
-    "npx"
+    "npx",
+    "malware"
   ],
   "author": "lexisgasa",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lexisgasa/audit-security/issues"
+  },
+  "homepage": "https://github.com/lexisgasa/audit-security#readme"
 }
