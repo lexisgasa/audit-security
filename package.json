@@ -1,0 +1,16 @@
+{
+  "name": "audit-security",
+  "version": "1.0.0",
+  "description": "Quick tool to detect dangerous dependencies before installing",
+  "main": "index.js",
+  "bin": {
+    "audit-security": "./index.js"
+  },
+  "keywords": [
+    "audit",
+    "security",
+    "npx"
+  ],
+  "author": "lexisgasa",
+  "license": "MIT"
+}
